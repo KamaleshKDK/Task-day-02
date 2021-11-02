@@ -1,0 +1,59 @@
+Execute the below code and write your description in txt file.
+
+Answer:
+
+1.typeof(1)
+
+var a = 1;
+console.log(typeof(a)); 
+OutPut=>Number
+
+2.typeof(1.1)
+
+var a =1.1;
+console.log(typeof(a));
+Output=>Number
+
+3.typeof('1.1')
+
+var a ='1.1';
+console.log(typeof(a));
+Output=>String
+
+4.typeof(true)
+
+var a =True;
+console.log(typeof(a));
+Output=>Boolean
+
+5.typeof(null)
+
+var a =null;
+console.log(typeof(a));
+Output=>Object
+
+6.typeof(undefined)
+
+var a =undefined;
+console.log(typeof(a));
+Output=>undefined
+
+7.typeof([])
+
+var a =[];
+console.log(typeof(a));
+Output=>Object
+
+8.typeof({})
+
+var a ={};
+console.log(typeof(a));
+Output=>Object
+
+9.typeof(NaN)
+
+var a =NaN;
+console.log(typeof(a));
+Output=>Number  //even it is not a number
+
+
