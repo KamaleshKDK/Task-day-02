@@ -54,6 +54,6 @@ Output=>Object
 
 var a =NaN;
 console.log(typeof(a));
-Output=>Number  //even it is not a number
+Output=>Number  //even if it is not a number
 
 
